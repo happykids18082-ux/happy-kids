@@ -7,7 +7,7 @@
 ## _justificacion_
 La implementación de un sistema de información se justifica porque la tienda necesita una forma más organizada y moderna de trabajar. Con este sistema será posible llevar un mejor control del inventario, saber con precisión qué tallas y colores hay disponibles, evitar errores en los pedidos y hacer que las ventas sean más rápidas y seguras. Además, permitirá atender a los clientes con mayor agilidad, dándoles información clara y confiable, lo que aumentará su confianza y satisfacción. Al mismo tiempo, el negocio podrá ahorrar tiempo, reducir complicaciones y crecer de manera más ordenada, asegurando un servicio de calidad y una mejor administración en general.
 
-### __pregunta del proyecto__
+### _pregunta del proyecto_
 ¿Qué tipo de sistema en línea puede desarrollar Happy Kids para agilizar la gestión de productos y mejorar la experiencia del usuario?
 
 ## _objetivos general_
