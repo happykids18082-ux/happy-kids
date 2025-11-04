@@ -4,7 +4,7 @@
 
 :blush: La tienda de  sudaderas para niños happy kids  maneja inventarios y ventas de forma manual , lo que causa errores y demora en la atención al cliente  ya que afecta las ventas en  el inventario no se tiene el control de los productos que se vende y se almacenan debido a  las actividades que se realizan aquí, se desarrollan de forma manual , permitiendo que halla errores en la verificación y validación de la mercancía. Esta afecta tanto como a los clientes como a la organización. Por eso se necesita un sistema de información que haga todo mas rápido y ordenado .
 
-##_justificacion_
+## _justificacion_
 La implementación de un sistema de información se justifica porque la tienda necesita una forma más organizada y moderna de trabajar. Con este sistema será posible llevar un mejor control del inventario, saber con precisión qué tallas y colores hay disponibles, evitar errores en los pedidos y hacer que las ventas sean más rápidas y seguras. Además, permitirá atender a los clientes con mayor agilidad, dándoles información clara y confiable, lo que aumentará su confianza y satisfacción. Al mismo tiempo, el negocio podrá ahorrar tiempo, reducir complicaciones y crecer de manera más ordenada, asegurando un servicio de calidad y una mejor administración en general.
 
 ### __pregunta del proyecto__
