@@ -14,11 +14,11 @@ La implementación de un sistema de información se justifica porque la tienda n
 Implementar un sistema de información en la tienda Happy Kids que permita gestionar de forma eficiente las ventas y el control de inventarios, garantizando un manejo ordenado y confiable de la información, así como una mejor atención al cliente
 
 ## _objetivos especificos_
-Desarrollar módulos funcionales del sistema que gestionen el inventario, el control de ventas y la generación automática de reportes
-Implementar una base de datos que almacene de manera segura la información de productos, clientes y transacciones
-Proteger la información del sistema mediante la gestión de usuarios y contraseñas seguras 
-Gestionar en el sistema la información relacionada con los productos, categorías, precios y existencias del inventario 
-Desarrollar una interfaz grafica amigable que se adapte 
+° Desarrollar módulos funcionales del sistema que gestionen el inventario, el control de ventas y la generación automática de reportes.
+° Implementar una base de datos que almacene de manera segura la información de productos, clientes y transacciones.
+° Proteger la información del sistema mediante la gestión de usuarios y contraseñas seguras.
+° Gestionar en el sistema la información relacionada con los productos, categorías, precios y existencias del inventario. 
+° Desarrollar una interfaz grafica amigable que se adapte. 
 
 ## _alcance_
 El sistemas para la tienda Happy kids tendrá como funciones principales el control del inventario, el registro de ventas, la generación de reportes y la validación de datos para evitar errores. Sera utilizado principalmente por el administrador, encargado de la gestión general, y los vendedores, responsables de registrar ventas y consultar productos. En su primera versión contara con módulos de inventario, ventas, reportes y usuarios, permitiendo un manejo mas rápido, organizado y confiable de la información
