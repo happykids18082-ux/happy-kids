@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/02de8e21-7cab-4cd6-8512-1cdd311ddd28" />
 # happy-kids
 ## componente metologico
 ### _plantamiento del problema_
